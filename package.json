@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-pathnames",
+  "version": "0.0.0",
+  "description": "Matches names of files and folders against a regular expression",
+  "keywords": [],
+  "author": "dvpnt",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "pkg-dir": "^4.2.0"
+  },
+  "license": "UNLICENSED"
+}
