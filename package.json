@@ -2,7 +2,15 @@
   "name": "eslint-plugin-pathnames",
   "version": "1.0.0",
   "description": "Matches names of files and folders against a regular expression",
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "plugin",
+    "path",
+    "files",
+    "folders",
+    "names",
+    "filenames"
+  ],
   "author": "dvpnt",
   "main": "lib/index.js",
   "scripts": {
