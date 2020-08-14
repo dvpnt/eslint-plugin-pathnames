@@ -14,5 +14,16 @@
     "eslint": "7.6.0",
     "eslint-config-fbjs-opensource": "2.0.1",
     "tap": "14.10.8"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/eslint-plugin-pathnames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dvpnt/eslint-plugin-pathnames/issues"
+  },
+  "homepage": "https://github.com/dvpnt/eslint-plugin-pathnames#readme"
 }
