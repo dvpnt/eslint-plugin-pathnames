@@ -17,7 +17,7 @@
     "test": "tap"
   },
   "dependencies": {},
-  "license": "UNLICENSED",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "7.6.0",
     "eslint-config-fbjs-opensource": "2.0.1",
