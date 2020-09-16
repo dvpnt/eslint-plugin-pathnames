@@ -15,9 +15,9 @@ Add `pathnames` to the plugins section of your `.eslintrc` configuration file. Y
 
 ```json
 {
-  "plugins": [
-       "pathnames"
-  ]
+	"plugins": [
+		"pathnames"
+	]
 }
 ```
 
@@ -26,16 +26,16 @@ Then configure the rules you want to use under the rules section.
 
 ```json
 {
-  "rules": {
-    "pathnames/match": [
-      "error",
-      {
-        "fileNames": "...",
-        "folderNames": "...",
-        "ignorePaths": "..."
-      }
-    ]
-  }
+	"rules": {
+		"pathnames/match": [
+			"error",
+			{
+				"fileNames": "^[0-9A-Za-z]+$",
+				"folderNames": "^[-_.0-9A-Za-z]+$",
+				"ignorePaths": "^(scripts|static)"
+			}
+		]
+	}
 }
 ```
 
