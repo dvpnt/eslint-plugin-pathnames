@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-pathnames",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Matches names of files and folders against a regular expression",
   "keywords": [
     "eslint",
@@ -27,7 +27,7 @@
     "tap": "14.10.8"
   },
   "files": [
-	"lib/index.js"
+    "lib/index.js"
   ],
   "repository": {
     "type": "git",
