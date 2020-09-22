@@ -1,0 +1,39 @@
+{
+  "name": "eslint-plugin-pathnames",
+  "version": "1.0.0",
+  "description": "Matches names of files and folders against a regular expression",
+  "keywords": [
+    "eslint",
+    "plugin",
+    "path",
+    "files",
+    "folders",
+    "names",
+    "filenames"
+  ],
+  "author": "dvpnt",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tap"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "7.6.0",
+    "eslint-config-dvpnt": "^5.0.3",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "tap": "14.10.8"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvpnt/eslint-plugin-pathnames.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dvpnt/eslint-plugin-pathnames/issues"
+  },
+  "homepage": "https://github.com/dvpnt/eslint-plugin-pathnames#readme"
+}
