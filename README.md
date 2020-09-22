@@ -1,5 +1,9 @@
 # eslint-plugin-pathnames
 
+[![Build Status](https://travis-ci.org/dvpnt/eslint-plugin-pathnames.svg?branch=master)](https://travis-ci.org/dvpnt/eslint-plugin-pathnames)
+[![Coverage Status](https://coveralls.io/repos/github/dvpnt/eslint-plugin-pathnames/badge.svg?branch=master)](https://coveralls.io/github/dvpnt/eslint-plugin-pathnames?branch=master)
+[![NPM Version](https://img.shields.io/npm/v/eslint-plugin-pathnames.svg)](https://www.npmjs.com/package/eslint-plugin-pathnames)
+
 Matches names of files and folders against a regular expression
 
 ## Installation

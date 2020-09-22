@@ -14,7 +14,8 @@
   "author": "dvpnt",
   "main": "lib/index.js",
   "scripts": {
-    "test": "tap"
+    "lint": "eslint ./",
+    "test": "tap lib/**/__tests__/*.js --bail --coverage --coverage-report=text --100 --reporter specy"
   },
   "dependencies": {},
   "license": "MIT",
