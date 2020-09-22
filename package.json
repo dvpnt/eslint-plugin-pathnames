@@ -26,9 +26,9 @@
     "eslint-plugin-node": "^11.1.0",
     "tap": "14.10.8"
   },
-  "directories": {
-    "lib": "lib"
-  },
+  "files": [
+	"lib/index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dvpnt/eslint-plugin-pathnames.git"
